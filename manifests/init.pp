@@ -4,7 +4,7 @@
 #
 #   include pycharm
 class pycharm {
-  $version = '2.7.1'
+  $version = '2.7.2'
 
   package { 'PyCharm':
     provider => 'appdmg',
